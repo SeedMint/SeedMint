@@ -1,10 +1,10 @@
 ### 
 The "original" SeedMint was tinkered out of personal needs without any references at all, quite a while back. 
 But only recently somebody asked me, if i would make plans for such a Jig available, so I thought if only one person would get value from this, it would have been worth while making those plans. This has also been the first time I have heared about Blocksmit - quite ignorant as I'll admit..
-Blocksmit's a remarkably comparable design and I probably wouldn't have made the SerdMint if I had known about it.. :-)
+Blocksmit's a remarkably comparable design and I probably wouldn't have made the SeedMint if I had known about it.. :-)
 The Jig is intended to bee used with 2mm letter and 4mm number punches on an M6 stainless steel washers with an outer diameter of 18mm.
 You can get stainless steel canisters fitting for 24 of those washers on ebay for about 5 bucks.
-I will add more details, a parts list and sourcing references as I find the time to do so. 
+I´ll add more details, a parts list and sourcing references as I find the time to do so. 
 Any contribution and/or feedback is greatly appreciated.
 
 
