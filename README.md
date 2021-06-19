@@ -1,4 +1,6 @@
 ### 
+SeedMint
+
 The "original" SeedMint was tinkered without any references or drawings at all, quite a while back. 
 But only recently somebody asked me, if i would make plans for such a Jig available, so I thought if only one person would get value from this, it would have been worth while making those plans. This has also been the first time I have heared about Blocksmit - quite ignorant as I'll admit..
 Blocksmit's a remarkably comparable design and I probably wouldn't have made the SeedMint if I had known about it.. :-)
