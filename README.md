@@ -14,7 +14,7 @@ In the CAD folder you find the complete design in different format types .zip fo
 I'll add PDF drwaings of the single pieces and a part list anyway
 
 !!!Please be sure to check the CNC Data thoroughly and adapt to your Tools, Machine and Material before considering to use!!!
--it also isn't complete jet (just working on different Stuff the same time to stay entertained;)
+-it also isn't complete jet (just working on different Stuff at the same time to stay entertained;)
 <!--
 **SeedMint/SeedMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
