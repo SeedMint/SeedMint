@@ -9,7 +9,7 @@ You can get stainless steel canisters fitting for 24 of those washers on ebay fo
 I´ll add more details, a parts list and sourcing references as I find the time to do so. 
 Any contribution and/or feedback is greatly appreciated.
 
-In the CAD folder you find the complete design in different format types .zip for Inventor 2019 and .f3z for Autodesk Fusion 360 (which doesnt cost anything for personal use)
+In the [CAD] (https://github.com/SeedMint/SeedMint/tree/main/CAD "Drawings and 3D Model") folder you find the complete design in different format types .zip for Inventor 2019 and .f3z for Autodesk Fusion 360 (which doesnt cost anything for personal use)
 
 I'll add PDF drwaings of the single pieces and a part list anyway
 
