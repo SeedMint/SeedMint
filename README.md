@@ -2,6 +2,8 @@
 
 ![SeedMint](https://github.com/SeedMint/SeedMint/blob/main/PNG/Short%20instructions.png)
 
+Click view Code on the Top to see all files
+
 The "original" **SeedMint** was tinkered without any references or drawings at all, quite a while back. 
 But only recently somebody asked me, if i would make plans for such a Jig available,   so I thought if only one person would get value from this, it would have been worth while making those plans. This has also been the first time I have heared about [Blockmit](https://blockmit.com/english/guides/diy/make-cold-wallet-washers/ "blockmit.com") - quite ignorant as I'll admit..
 Blockmit's a remarkably comparable design and I probably wouldn't have made the SeedMint if I had known about it.. :-)
