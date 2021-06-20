@@ -1,6 +1,6 @@
 ### SeedMint
 
-![SeedMint](https://github.com/SeedMint/SeedMint/blob/main/PNG/Short%20instructions.png)
+![SeedMint](https://github.com/SeedMint/SeedMint/blob/main/PNG/short%20instuctions.png)
 
 Click "view code" on the Top to see all files
 
