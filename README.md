@@ -20,7 +20,7 @@ You can get stainless steel canisters fitting for 24 of those washers on ebay fo
 
 Any contribution and/or feedback is greatly appreciated.
 
-
+follow me [@SeedMint21](https://twitter.com/SeedMint21) on twitter for updates 
 <!--
 **SeedMint/SeedMint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
