@@ -9,10 +9,10 @@ In the [CAD](https://github.com/SeedMint/SeedMint/tree/main/CAD "Drawings and 3D
 I'll add [PDF](https://github.com/SeedMint/SeedMint/tree/main/PDF) drwaings of the single pieces and a part list anyway
 
 !!!Please be sure to check the [CNC](https://github.com/SeedMint/SeedMint/tree/main/CNC) Data thoroughly and adapt to your Tools, Machine and Material before considering to use!!!
--it also isn't complete jet (just working on different Stuff at the same time to stay entertained;)
 
 
-The "original" **SeedMint** was tinkered without any references or drawings at all, quite a while back. 
+
+The "original" **SeedMint** was tinkered without any references or drawings at all, quite a while back. Just for the love of handcrafiting things i consider useful.
 But only recently somebody asked me, if i would make plans for such a Rig available,  so I thought if only one person would get value from this, it would have been worth while making those plans. This has also been the first time I have heared about [Blockmit](https://blockmit.com/english/guides/diy/make-cold-wallet-washers/ "blockmit.com") - quite ignorant as I'll admit..
 Blockmit's a remarkably comparable design and I probably wouldn't have made the SeedMint if I had known about it.. :-)
 The Jig is intended to be used with 2-3mm letter- and 4mm number punches on an M6 stainless steel washer with an outer diameter of 18mm.
