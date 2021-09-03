@@ -8,6 +8,8 @@ In the [CAD](https://github.com/SeedMint/SeedMint/tree/main/CAD "Drawings and 3D
 
 I'll add [PDF](https://github.com/SeedMint/SeedMint/tree/main/PDF) drwaings of the single pieces and a part list anyway
 
+This are the [letter](https://www.amazon.de/gp/product/B01BTTMEJU/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) and [number](https://www.amazon.de/Turnus-330-004-TURNUS-0007697220004-Schlagbuchstaben-Nummern/dp/B00D17RJ7Q/ref=pd_rhf_ee_s_rp_c_2_4/258-1308871-9158764?pd_rd_w=DDRP4&pf_rd_p=3615e606-50f4-4f59-8628-fd7a676721fd&pf_rd_r=CA61T8Z4GCZXP764DSR1&pd_rd_r=31194f92-08ae-4d7d-bf5d-4c9689ae0a70&pd_rd_wg=5uyzM&pd_rd_i=B00D17RJ7Q&psc=1) stamps used in the current Design
+
 !!!Please be sure to check the [CNC](https://github.com/SeedMint/SeedMint/tree/main/CNC) Data thoroughly and adapt to your Tools, Machine and Material before considering to use!!!
 
 
