@@ -1,4 +1,5 @@
 ### SeedMint
+[DONATE](https://btcpay525356.lndyn.com/apps/4GYmbQSiyjLKcgHjQupG7siAwfGU/pos")
 
 ![SeedMint](https://github.com/SeedMint/SeedMint/blob/main/PNG/short%20instructions.png)
 
