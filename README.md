@@ -50,7 +50,7 @@ Parts to buy: (just paste the description into a search engine to find local sou
     </tr>
      <tr>
       <td>min. 24</td>
-      <td>washer DIN 9021 6.4 A4 or titanium grade 2</td>
+      <td>washer DIN 9021 6.4 A4(316L) or titanium grade 2</td>
     </tr>
      <tr>
       <td>1 set</td>
