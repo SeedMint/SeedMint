@@ -1,5 +1,26 @@
-### SeedMint
+# SeedMint
 [DONATE](https://btcpay.seedmint21.com/apps/3T8pC9bnwwymTxx4zB7akkAiFkyJ/pos)
+
+## INTRODUCTION
+
+### SEEDMINT is a FREE OPEN SOURCE HARDWARE (FOSH) Product.  
+  
+Technical drawings, material specifications and information regarding standard parts can be found in the designated folder.  
+  
+Adequate personal bitcoin security is a daunting challenge - one that will not forgive many mistakes. Every user’s situation regarding technical understanding and personal priorities, threat model and risk tolerance is fundamentally unique which renders generalized advice insufficient at best, dangerously confusing at worst.  
+To achieve a level of security you can feel comfortable with you must find the right trade-off between cost, privacy, complexity, and failure tolerance.  
+We cannot tell you what is best for your individual situation, but we can do our best to provide tools to aid you on your journey. The first of these tools is the SEEDMINT.
+  
+## PURPOSE
+  
+The SEEDMINT is a tool designed to easily secure your 12 or 24 bitcoin backup words (mnemonic seed phrase) on highly durable V4A stainless steel washers.
+Using the included punches (4mm numbers & 2mm letters/numbers) you can stamp the index number (01 to 24) as well as the significant characters (first four letters) of each word onto one washer. This will result in 12 or 24 stamped washers.  
+Additional washers can be stamped with any relevant information you would like to secure in combination with your seed. This additional information may include but is not limited to: seed creation date, seed creation block hight, master fingerprint,derivation path, wallet name, passphrase, multisig scheme, or xpub. 
+  The stamped washers can be held on a V4A stainless steel screw, fastened by a self-locking nut and stored in a secure location as an ultimate backup.
+The above description is the use case we envisioned as a basis for the design of the SEEDMINT and is merely a recommendation. At the end of the day, it is up to you which information you would like to stamp on the washers and how you choose to store them.
+  
+
+
 
 ![SeedMint](https://github.com/SeedMint/SeedMint/blob/main/PNG/short%20instructions.png)
 
