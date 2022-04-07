@@ -1,5 +1,5 @@
 # SeedMint
-[DONATE](https://btcpay.seedmint21.com/apps/3T8pC9bnwwymTxx4zB7akkAiFkyJ/pos)
+[DONATE](https://permissionlessstore.duckdns.org:57800/apps/4U7dYjY3Po74d5rREmCaG5ngVtTc/pos)
 
 ### INTRODUCTION
 
